@@ -1,7 +1,7 @@
 replicaCount: 3
 
 image:
-  repository: [username]/mern-client
+  repository: "[username]/mern-client"
   tag: latest
   pullPolicy: IfNotPresent
 
